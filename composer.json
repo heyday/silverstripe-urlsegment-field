@@ -1,0 +1,18 @@
+{
+    "name": "heyday/silverstripe-urlsegment-field",
+    "type": "silverstripe-module",
+    "description": "Tools for url segment fields on DataObjects",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cam Spiers",
+            "email": "cameron@heyday.co.nz",
+            "role": "Developer"
+        },
+        {
+            "name": "Kelle-Lee Connolly",
+            "email": "kelle-lee@heyday.co.nz",
+            "role": "Developer"
+        }
+    ],
+}
